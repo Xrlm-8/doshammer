@@ -7,4 +7,4 @@ It is just for server testing script. Your ip is visible. \n<br><br>
 -h : help<br>
 -s : server ip<br>
 -p : port default 80<br>
--t : turbo default 135 \033[0m''')<br>
+-t : turbo default 135 \033[0m<br>
